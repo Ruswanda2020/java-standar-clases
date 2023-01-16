@@ -1,0 +1,4 @@
+Database.host=localhost
+Database.port=666
+Database.username=wanda
+Database.password=rahasiailahi
